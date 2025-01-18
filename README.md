@@ -57,7 +57,7 @@ The program renders a simple scene with spheres and saves it as a PNG file. Here
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source
 
 ---
 
